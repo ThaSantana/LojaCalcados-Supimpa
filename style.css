@@ -1,5 +1,5 @@
 body{
-    background-color: #ccecf0;
+    background-color: #e7eff0;
 }
 
 h1{
@@ -130,17 +130,17 @@ p{
     list-style: none;
 }
 
-table{
-    border: solid gray 1px;
-    
-}
+
 .box{
     
     text-align: center;
     position: absolute;
-    margin-left: 550px;
+    margin-left: 500px;
     font-family: 18px;
     font-family: 'Times New Roman', Times, serif;
+}
+.box input{
+    width: 300px;
 }
 .box1{
     text-align: center;
